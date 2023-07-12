@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/831.e3056f57.chunk.css","mappings":"AACI,eACI","sources":["pages/ErrorPage/style.scss"],"sourcesContent":[".error-page {\r\n    & h1 {\r\n        font-size: 80px;\r\n    }\r\n}"],"names":[],"sourceRoot":""}
