@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-boutique-client/static/css/main.21cbc330.css",
-    "main.js": "/React-boutique-client/static/js/main.c569d50d.js",
+    "main.js": "/React-boutique-client/static/js/main.904541db.js",
     "static/css/448.8e0a030b.chunk.css": "/React-boutique-client/static/css/448.8e0a030b.chunk.css",
     "static/js/448.a140bac1.chunk.js": "/React-boutique-client/static/js/448.a140bac1.chunk.js",
     "static/css/831.e3056f57.chunk.css": "/React-boutique-client/static/css/831.e3056f57.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/365.be70c52b.chunk.js": "/React-boutique-client/static/js/365.be70c52b.chunk.js",
     "index.html": "/React-boutique-client/index.html",
     "main.21cbc330.css.map": "/React-boutique-client/static/css/main.21cbc330.css.map",
-    "main.c569d50d.js.map": "/React-boutique-client/static/js/main.c569d50d.js.map",
+    "main.904541db.js.map": "/React-boutique-client/static/js/main.904541db.js.map",
     "448.8e0a030b.chunk.css.map": "/React-boutique-client/static/css/448.8e0a030b.chunk.css.map",
     "448.a140bac1.chunk.js.map": "/React-boutique-client/static/js/448.a140bac1.chunk.js.map",
     "831.e3056f57.chunk.css.map": "/React-boutique-client/static/css/831.e3056f57.chunk.css.map",
@@ -44,6 +44,6 @@
   },
   "entrypoints": [
     "static/css/main.21cbc330.css",
-    "static/js/main.c569d50d.js"
+    "static/js/main.904541db.js"
   ]
 }
